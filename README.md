@@ -71,3 +71,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VanajaBoddu&show_icons=true&locale=en" alt="VanajaBoddu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VanajaBoddu&" alt="VanajaBoddu" /></p>
+
+<img src="https://raw.githubusercontent.com/VanajaBoddu/VanajaBoddu/output/snake.svg" alt="Snake animation" />
