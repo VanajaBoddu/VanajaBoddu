@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Embedded software engineer, Data Science , MLOPS, Data Analysis, Data Visualization**
 
-- 📫 How to reach me **vanaj_boddu@srmap.edu.in**
+- 📫 How to reach me **vanaja_boddu@srmap.edu.in**
 
 - ⚡ I’m Proficient in **Embedded C, Python, SQL, and data visualization tools like Tableau and Power BI.**
 
