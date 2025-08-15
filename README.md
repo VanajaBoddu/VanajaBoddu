@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanaja Boddu</h1>
-<h3 align="center">I'm a passionate developer specializing in data analytics, data engineering and Embedded software engineer , with a strong focus on financial transaction processing and data analysis. I enjoy leveraging my skills in SQL, Python, Flask, Pandas, and NumPy to build robust and efficient data systems. My projects often involve advanced data manipulation, machine learning, data visualization, and optimizing data workflows through automation.</h3>
+<h3 align="center">I'm a passionate developer specializing in data analytics, data engineering and  with a strong focus on Data processing and data analysis. I enjoy leveraging my skills in SQL, Python, Flask, Pandas, and NumPy to build robust and efficient data systems. My projects often involve advanced data manipulation, machine learning, data visualization, and optimizing data workflows through automation.</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fd8d6103b348f3031a5d0dcc4bc7204c918328e2&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VanajaBoddu&label=Profile%20views&color=0e75b6&style=flat" alt="VanajaBoddu" /> </p>
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vanaja_boddu@srmap.edu.in**
 
-- ⚡ I’m Proficient in **Embedded C, Python, SQL, and data visualization tools like Tableau and Power BI.**
+- ⚡ I’m Proficient in **Embedded C, Python, SQL, and data visualization tools and Linux.**
 
 <h3 align="left">Socials:</h3>
 
